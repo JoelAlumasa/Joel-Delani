@@ -1,0 +1,28 @@
+.landing {
+  background-image: url("../images/h_img.jpg");
+  background-repeat: no-repeat;
+  padding: 420px;
+  text-align: center;
+  color: white;
+}
+.about {
+  text-align: center;
+  margin-top: -18%;
+}
+
+
+.services {
+  background-image: url("../images/s_image.jpg");
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 70px;
+  color: white;
+}
+
+.what {
+  text-align: center;
+
+}
+h1.what {
+  
+}

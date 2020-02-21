@@ -35,8 +35,12 @@
 .contact {
   background-image: url("../images/c_image.jpg");
   background-repeat: no-repeat;
-  padding: 350px;
   text-align: center;
-  color: white;
-  height: 80px;
+  color: white; 
+  margin-bottom: 50px;
+  
+}
+.forms {
+  background-color: transparent;
+  opacity: 0.4;
 }

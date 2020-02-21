@@ -44,3 +44,9 @@
 .clear {
   opacity: 0.3;
 }
+.social {
+  text-align: center;
+}
+.what-show {
+  display: none;
+}

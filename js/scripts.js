@@ -6,5 +6,23 @@ $(document).ready(function() {
   $(".design").click(function() {
     $(".design").toggle();
     $(".d-header").toggle();
+  });
+
+  $("#icon2").click(function() {
+    $(".dev-header").toggle();
+    $(".development").toggle();
+  });
+  $(".development").click(function() {
+    $(".development").toggle();
+    $(".dev-header").toggle();
+  });
+
+  $("#icon3").click(function() {
+    $(".pro-header").toggle();
+    $(".product-management").toggle();
+  });
+  $(".product-management").click(function() {
+    $(".product-management").toggle();
+    $(".pro-header").toggle();
   })
 });

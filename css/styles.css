@@ -53,7 +53,9 @@
 }
 .development {
   display: none;
+  text-align: center;
 }
 .product-management {
   display: none;
+  text-align: center;
 }

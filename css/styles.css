@@ -50,6 +50,7 @@
 .design {
   display: none;
   text-align: center;
+  margin: 25px;
 }
 .development {
   display: none;
@@ -59,3 +60,36 @@
   display: none;
   text-align: center;
 }
+
+
+.overlay1 {
+  opacity: 0;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transition: .5s;
+  position: absolute;
+  left: 50%;
+  top: 50%
+}
+.image1 {
+  display: block;
+  width: 100%;
+  height: auto;
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.text1 {
+  color: black;
+  background-color: white;
+  font-size: 20px;
+  padding: 16px 32px;
+}
+.container1:hover .overlay1 {
+  opacity: 0.3;
+}
+.container1:hover .image1 {
+  opacity: 1;
+}
+

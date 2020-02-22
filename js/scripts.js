@@ -24,5 +24,5 @@ $(document).ready(function() {
   $(".product-management").click(function() {
     $(".product-management").toggle();
     $(".pro-header").toggle();
-  })
+  });
 });

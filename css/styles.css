@@ -87,7 +87,214 @@
 .container1:hover .overlay1 {
   opacity: 1;
 }
-.container1:hover .image1 {
+.container1:hover .image4 {
   opacity: 1;
 }
 
+
+.overlay2 {
+  opacity: 0;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transition: .5s;
+  position: absolute;
+  left: 50%;
+  top: 50%
+}
+.image3 {
+  height: auto;
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.text2 {
+  color: black;
+  background-color: white;
+  font-size: 20px;
+  padding: 16px 32px;
+}
+.container2:hover .overlay2 {
+  opacity: 1;
+}
+.container2:hover .image3 {
+  opacity: 1;
+}
+
+
+.overlay3 {
+  opacity: 0;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transition: .5s;
+  position: absolute;
+  left: 50%;
+  top: 50%
+}
+.image2 {
+  height: auto;
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.text3 {
+  color: black;
+  background-color: white;
+  font-size: 20px;
+  padding: 16px 32px;
+}
+.container3:hover .overlay3 {
+  opacity: 1;
+}
+.container3:hover .image2 {
+  opacity: 1;
+}
+
+
+.overlay4 {
+  opacity: 0;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transition: .5s;
+  position: absolute;
+  left: 50%;
+  top: 50%
+}
+.image1 {
+  height: auto;
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.text4 {
+  color: black;
+  background-color: white;
+  font-size: 20px;
+  padding: 16px 32px;
+}
+.container4:hover .overlay4 {
+  opacity: 1;
+}
+.container4:hover .image1 {
+  opacity: 1;
+}
+
+.overlay5 {
+  opacity: 0;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transition: .5s;
+  position: absolute;
+  left: 50%;
+  top: 50%
+}
+.image5 {
+  height: auto;
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.text5 {
+  color: black;
+  background-color: white;
+  font-size: 20px;
+  padding: 16px 32px;
+}
+.container5:hover .overlay5 {
+  opacity: 1;
+}
+.container5:hover .image5 {
+  opacity: 1;
+}
+
+
+.overlay6 {
+  opacity: 0;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transition: .5s;
+  position: absolute;
+  left: 50%;
+  top: 50%
+}
+.image6 {
+  height: auto;
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.text6 {
+  color: black;
+  background-color: white;
+  font-size: 20px;
+  padding: 16px 32px;
+}
+.container6:hover .overlay6 {
+  opacity: 1;
+}
+.container6:hover .image6 {
+  opacity: 1;
+}
+
+
+.overlay7 {
+  opacity: 0;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transition: .5s;
+  position: absolute;
+  left: 50%;
+  top: 50%
+}
+.image7 {
+  height: auto;
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.text7 {
+  color: black;
+  background-color: white;
+  font-size: 20px;
+  padding: 16px 32px;
+}
+.container7:hover .overlay7 {
+  opacity: 1;
+}
+.container7:hover .image7 {
+  opacity: 1;
+}
+
+.overlay8 {
+  opacity: 0;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transition: .5s;
+  position: absolute;
+  left: 50%;
+  top: 50%
+}
+.image8 {
+  height: auto;
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.text8 {
+  color: black;
+  background-color: white;
+  font-size: 20px;
+  padding: 16px 32px;
+}
+.container8:hover .overlay8 {
+  opacity: 1;
+}
+.container8:hover .image8 {
+  opacity: 1;
+}

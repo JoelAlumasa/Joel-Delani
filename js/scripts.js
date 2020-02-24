@@ -26,3 +26,11 @@ $(document).ready(function() {
     $(".pro-header").toggle();
   });
 });
+
+function occur(events) {
+  var events = document.getElementById("name").value;
+  if (events!==undefined) {
+    alert("Thank you " + events + " .We have received your credentials");
+  }
+  return events ;
+} 

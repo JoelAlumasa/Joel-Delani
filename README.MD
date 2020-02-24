@@ -6,6 +6,8 @@ This website was created in order to mimic a fictional studio created by a membe
 
 No special installation instructions needed or any other tedious requirements. HTML, CSS and Bootstrap utilised. 
 
+Link to github pages is as follows: https://joelalumasa.github.io/Joel-Delani/
+
 MIT License
 
 Copyright (c) [2020] [Joel Alumasa]
